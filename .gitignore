@@ -44,3 +44,11 @@ tests/stamp-h2
 doc/*.html
 doc/*.3
 doc/*.7
+
+# build files and build products
+tmp/*
+src/libmodbus-build
+src/libmodbus-stamp
+share
+lib/*
+include
